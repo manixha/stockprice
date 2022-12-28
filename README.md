@@ -1,1 +1,3 @@
-# stockprice-
+# stockprice
+
+Did for practise 
